@@ -1,6 +1,6 @@
 # An Empirical Study of Vision Transformers for Fine-Grained Visual Classification
 
-**A Project for Artificial Neural Networks**
+**Final project for Artificial Neural Networks**
 
 ## Report
 The detailed project report and slides can be found in the `report/` directory.
